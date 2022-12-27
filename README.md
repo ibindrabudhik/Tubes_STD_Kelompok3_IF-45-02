@@ -2,7 +2,7 @@
 This page is created to fulfill Data Structure course project.
 
 ## Author
-Ida Bagus Indrabudhi Kusuma 1301213129.
+Ida Bagus Indrabudhi Kusuma 1301213129. \n
 Muhammad Fiqri Hermansyah 1301213186.
 
 ## Tentang Tugas Besar
