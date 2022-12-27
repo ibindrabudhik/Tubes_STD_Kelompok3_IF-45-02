@@ -2,8 +2,8 @@
 This page is created to fulfill Data Structure course project.
 
 ## Author
-Ida Bagus Indrabudhi Kusuma 1301213129
-Muhammad Fiqri Hermansyah 1301213186
+Ida Bagus Indrabudhi Kusuma 1301213129.
+Muhammad Fiqri Hermansyah 1301213186.
 
 ## Tentang Tugas Besar
 Kami akan membuat implementasi dari Multi-Linked List 1 to N untuk jadwal Dosen pada suatu Universitas. Seorang Dosen akan memiliki beberapa mata kuliah yang diampu pada universitas tersebut. 
