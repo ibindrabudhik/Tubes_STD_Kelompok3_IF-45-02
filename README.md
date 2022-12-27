@@ -16,3 +16,12 @@ Pada tugas besar kali ini, kami menyusun List Dosen sebagai single linked list d
 ## Function & Procedure Needed
 - [] Procedure Membuat List Dosen
 - [] Procedure Membuat List Jadwal Kelas 
+- [] Menambahkan data Dosen
+- [] Menambahkan data Mata Kuliah
+- [] Mencari data dosen tertentu
+- [] Mencari data Mata Kuliah pada Dosen Tertentu
+- [] Menghapus data Mata Kuliah pada Dosen tertentu
+- [] Menampilkan data seluruh Dosen beserta Mata Kuliah yang diampu
+- [] Menghitung banyaknya Mata Kuliah yang dimiliki oleh dosen tertentu
+- [] Menampilkan data Dosen yang memiliki jumlah Mata Kuliah dibawah rata-rata
+- [] Program Utama dari Jadwal Dosen
