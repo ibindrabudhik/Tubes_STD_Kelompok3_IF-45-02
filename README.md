@@ -19,7 +19,7 @@ Pada tugas besar kali ini, kami menyusun List Dosen sebagai single linked list.
 - [] Menambahkan data Dosen
 - [] Menambahkan data Mata Kuliah
 - [] Mencari data dosen tertentu
-- [] Mencari data Mata Kuliah pada Dosen Tertentu
+- [] Mencari apakah dosen mengajar mata kuliah tertentu
 - [] Menghapus data Mata Kuliah pada Dosen tertentu
 - [] Menampilkan data seluruh Dosen beserta Mata Kuliah yang diampu
 - [] Menghitung banyaknya Mata Kuliah yang dimiliki oleh dosen tertentu
